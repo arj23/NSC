@@ -1,2 +1,2 @@
-# NSC
-Network Security Channel
+# SNC
+Secure Network Channel
